@@ -4,10 +4,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot/sc-img.png)
+![](./screenshot/screenshot.png)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS Grid
+
 # QR-code-Challenge
